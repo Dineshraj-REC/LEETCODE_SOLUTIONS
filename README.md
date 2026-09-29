@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,10 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -58,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -66,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
