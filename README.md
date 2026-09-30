@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Bracket Sequences
 |  |
@@ -82,4 +83,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
