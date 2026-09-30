@@ -23,15 +23,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
 |  |
