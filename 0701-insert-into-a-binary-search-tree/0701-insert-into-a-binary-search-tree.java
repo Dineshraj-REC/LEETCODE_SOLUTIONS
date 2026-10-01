@@ -10,7 +10,7 @@ class Solution {
             if(val<root.val){
                 root.left=insertIntoBST(root.left,val);
             }
-            return root;
-        }  
+        }
+        return root;
     }
 }
