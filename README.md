@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/1480-running-sum-of-1d-array) |
+| [1920-build-array-from-permutation](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/1920-build-array-from-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/1480-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/Dineshraj-REC/LEETCODE_SOLUTIONS/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
